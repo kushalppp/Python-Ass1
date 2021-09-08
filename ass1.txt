@@ -1,0 +1,48 @@
+(3)
+ Result:-
+   x + y = 19
+   x - y = 11
+   x * y = 60
+   x / y = 3.75
+   x // y = 3
+   x ** y = 50625
+   x % y = 3
+
+Result:-
+  x > y  is False
+  x < y  is True
+  x == y is False
+  x != y is True
+  x >= y is False
+  x <= y is True
+
+Result:-
+  x and y is False
+  x or y is True
+  not x is False
+
+Result:-
+ False
+ True
+
+Result:-
+ Bitwise AND Operator On 9 and 65 is =  1
+ Bitwise OR Operator On 9 and 65 is =  73
+ Bitwise EXCLUSIVE OR Operator On 9 and 65 is =  72
+ Bitwise NOT Operator On 9 is =  -10
+ Bitwise LEFT SHIFT Operator On 9 is =  18
+ Bitwise RIGHT SHIFT Operator On 65 is =  32
+
+Result:-
+(1) 2.5
+(2) 2
+(3) 49 ,8
+(4)hello world
+(5)hellohellohellohellohellohellohellohellohellohello
+(6)
+Line 1 - Value of c is  12
+Line 2 - Value of c is  61
+Line 3 - Value of c is  49
+Line 4 - Value of c is  -61
+Line 5 - Value of c is  240
+Line 6 - Value of c is  15
